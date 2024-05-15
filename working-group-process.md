@@ -55,3 +55,8 @@ SHOULD: This word means that there may exist valid reasons in particular circums
 SHOULD NOT: This phrase means that there may exist valid reasons in particular circumstances when the particular behavior is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing any behavior described with this label.
 
 MAY: This word means that a definition is truly optional. A specification may choose to fulfill the requirement because a particular marketplace requires it or because the specification feels that it enhances the product while another specification may omit the same item.
+
+## 6. Solicit Proposals
+
+Once a working group has finalized use cases, threats, and requirements it can begin to solicit solution proposals.  This is often done by releasing a Request for Proposals (RFP) that is available to the public.  Organizations that would like to submit a proposal must [join OMA3](https://www.oma3.org/join) and sign the [member agreement](https://assets-global.website-files.com/62a8cfee4d1b8a5209c0fd7b/6635371bd724c2480b01bdf4_oma3-complete-signable-v6.pdf).
+
